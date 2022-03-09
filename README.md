@@ -6,8 +6,8 @@ Para a inicialização do desafio será necessário, baixar os importes do requi
 
 Após rodar o desafio, você terá duas opções de endpoint.
 
-1. Endpoint **ip** que irão criar a requisição e salvar o ip no banco de dados. **[http://127.0.0.1:8000/api/v1/ip/**](http://127.0.0.1:8000/api/v1/ips/)
-1. Endpoint, e o **ips** que irá listar todos os ips criados. [**http://127.0.0.1:8000/api/v1/ips/**](http://127.0.0.1:8000/api/v1/ips/)
+1. Endpoint **ip** que irão criar a requisição e salvar o ip no banco de dados. [http://127.0.0.1:8000/api/v1/ip/](http://127.0.0.1:8000/api/v1/ips/)
+1. Endpoint, e o **ips** que irá listar todos os ips criados. [http://127.0.0.1:8000/api/v1/ips/](http://127.0.0.1:8000/api/v1/ips/)
 
 Exemplo IPs:
 
