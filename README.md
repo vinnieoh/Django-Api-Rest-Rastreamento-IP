@@ -1,4 +1,4 @@
-# Djang-Api-Rest-Rastreamento-IP
+# Django-Api-Rest-Rastreamento-IP
 
 Construção de um API Rest, que tem como objetivo de receber um IP e retornar as suas informações, como sua localidade, região e país.
 
